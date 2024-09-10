@@ -1,3 +1,6 @@
+# ⚠️ WARNING ⚠️
+This is not the official repository and I don't intend to maintain it. I'm using it for personal purposes until the official repository fixes issues with importing and exporting worlds (see issue [#14](https://github.com/salpland/haze/issues/14)).
+
 # ☘️ Haze
 
 > A simple command line tool to manage your Minecraft Bedrock worlds
@@ -10,8 +13,10 @@ Haze allows you to keep your project's worlds out of the `com.mojang` directory 
 
 Open PowerShell on Windows and run:
 
+⚠️ WARNING ⚠️: This command installs the unofficial version of Haze. If you want to install the official version, please refer to the [official repository](https://github.com/salpland/haze)
+
 ```powershell
-irm https://raw.githubusercontent.com/salpland/haze/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/nusiq/haze/main/scripts/install.ps1 | iex
 ```
 
 **You can also use this same command to update Haze.**

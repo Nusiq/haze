@@ -3,7 +3,7 @@
 $ErrorActionPreference = 'Stop'
 
 $IsInstalled = $false
-$DownloadUrl = "https://github.com/sedgeland/haze/releases/latest/download/haze.zip"
+$DownloadUrl = "https://github.com/nusiq/haze/releases/latest/download/haze.zip"
 $BinDir = "${Home}\.haze"
 $HazeZip = "${BinDir}\haze.zip"
 $HazeExe = "${BinDir}\haze.exe"
